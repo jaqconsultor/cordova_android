@@ -1,6 +1,8 @@
 # Descargar el NODEJS
 Version 14 lts
 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
 # Para Nodejs 8
 SET OPENSSL_CONF=
 
